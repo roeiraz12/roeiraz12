@@ -92,7 +92,7 @@ The public repo runs on synthetic demo data (password: `demo`).
 3. [Part 3 – Serving](https://github.com/roeiraz12/Data-minning-project---3rd-year-part_3): a Flask web app that predicts a movie's rating from its details.
 
 **Other**
-- [Swwigy-project](https://github.com/roeiraz12/Swwigy-project): exploratory analysis of a 388-person food-delivery survey (pandas, seaborn).
+- [swiggy-delivery-survey-eda](https://github.com/roeiraz12/swiggy-delivery-survey-eda): exploratory analysis of a 388-person food-delivery survey (pandas, seaborn).
 - [Advanced-ML-Project-](https://github.com/roeiraz12/Advanced-ML-Project-): advanced machine-learning course project.
 
 ## 🛠 Tools I use
