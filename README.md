@@ -1,13 +1,16 @@
 # Hi there 👋
 
+**Data Analyst · Data Scientist · Full-Stack Developer · AI Solutions**
+
 <div dir="rtl">
 
 אני בונה כלים פרקטיים לעסקים ולחיים: אפליקציות PWA בעברית לטלפון, דאשבורדים לנתונים ואוטומציות קטנות שחוסכות זמן.
 
 </div>
 
-I build practical, mobile-first tools: Hebrew (RTL) progressive web apps, data dashboards and small
-automations that solve real problems for small businesses and families.
+I turn real-world problems into working products: data dashboards, machine-learning models and mobile-first
+Hebrew (RTL) web apps, often built with AI-assisted development. Every project below solves a real need for a
+business or a family and comes with a live demo, tests and CI.
 
 ---
 
@@ -27,7 +30,7 @@ live dashboard with alerts.
   <img src="https://raw.githubusercontent.com/roeiraz12/warehouse-orders-pwa/main/docs/screenshots/order-checklist.png" width="200" alt="Order packing checklist">
 </p>
 
-[**Code**](https://github.com/roeiraz12/warehouse-orders-pwa) · [**Live app**](https://pelecar-delivery-app.netlify.app) (requires a business code)
+[**▶ Live demo**](https://roeiraz12.github.io/warehouse-orders-pwa/) · [**Code**](https://github.com/roeiraz12/warehouse-orders-pwa)
 
 ### 📊 [Flacar Sales Dashboard](https://github.com/roeiraz12/flacar-sales-dashboard)
 
@@ -43,7 +46,7 @@ The public repo runs on synthetic demo data (password: `demo`).
   <img src="https://raw.githubusercontent.com/roeiraz12/flacar-sales-dashboard/main/docs/screenshots/calendar.png" width="200" alt="Who-to-call calendar">
 </p>
 
-[**Code**](https://github.com/roeiraz12/flacar-sales-dashboard)
+[**▶ Live demo**](https://roeiraz12.github.io/flacar-sales-dashboard/) (password: `demo`) · [**Code**](https://github.com/roeiraz12/flacar-sales-dashboard)
 
 ---
 
@@ -63,7 +66,7 @@ The public repo runs on synthetic demo data (password: `demo`).
         <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white" alt="Vercel">
         <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white" alt="PWA">
       </p>
-      <p><a href="https://github.com/roeiraz12/baby-feeding-log"><b>Code</b></a> · <a href="https://baby-journal-seven.vercel.app"><b>Live app</b></a></p>
+      <p><a href="https://baby-journal-seven.vercel.app"><b>▶ Live app</b></a> · <a href="https://github.com/roeiraz12/baby-feeding-log"><b>Code</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/roeiraz12/diet-tracker-pwa">🥗 Diet Tracker</a></h3>
@@ -77,7 +80,7 @@ The public repo runs on synthetic demo data (password: `demo`).
         <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white" alt="PWA">
       </p>
-      <p><a href="https://github.com/roeiraz12/diet-tracker-pwa"><b>Code</b></a></p>
+      <p><a href="https://roeiraz12.github.io/diet-tracker-pwa/"><b>▶ Live app</b></a> · <a href="https://github.com/roeiraz12/diet-tracker-pwa"><b>Code</b></a></p>
     </td>
   </tr>
 </table>
@@ -87,9 +90,9 @@ The public repo runs on synthetic demo data (password: `demo`).
 ## 🎓 Earlier projects
 
 **IMDb rating prediction — a 3-part data-science series**
-1. [Part 1 – Data collection](https://github.com/roeiraz12/Data-minning-project---3rd-year): a 5,000-movie dataset built from IMDb tables plus Wikipedia web scraping (Python, BeautifulSoup, pandas).
-2. [Part 2 – Modeling](https://github.com/roeiraz12/Data-minning-project---3rd-year-part_2): Elastic Net vs Random Forest pipelines in scikit-learn, feature engineering, Boruta selection, error and fairness analysis.
-3. [Part 3 – Serving](https://github.com/roeiraz12/Data-minning-project---3rd-year-part_3): a Flask web app that predicts a movie's rating from its details.
+1. [Part 1 – Data collection](https://github.com/roeiraz12/imdb-dataset-scraping): a 5,000-movie dataset built from IMDb tables plus Wikipedia web scraping (Python, BeautifulSoup, pandas).
+2. [Part 2 – Modeling](https://github.com/roeiraz12/imdb-rating-prediction): Elastic Net vs Random Forest pipelines in scikit-learn, feature engineering, Boruta selection, error and fairness analysis.
+3. [Part 3 – Serving](https://github.com/roeiraz12/imdb-rating-predictor-app): a Flask web app that predicts a movie's rating from its details.
 
 **Other**
 - [swiggy-delivery-survey-eda](https://github.com/roeiraz12/swiggy-delivery-survey-eda): exploratory analysis of a 388-person food-delivery survey (pandas, seaborn).
