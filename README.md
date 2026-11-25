@@ -86,14 +86,15 @@ The public repo runs on synthetic demo data (password: `demo`).
 
 ## 🎓 Earlier projects
 
+**IMDb rating prediction — a 3-part data-science series**
+1. [Part 1 – Data collection](https://github.com/roeiraz12/Data-minning-project---3rd-year): a 5,000-movie dataset built from IMDb tables plus Wikipedia web scraping (Python, BeautifulSoup, pandas).
+2. [Part 2 – Modeling](https://github.com/roeiraz12/Data-minning-project---3rd-year-part_2): Elastic Net vs Random Forest pipelines in scikit-learn, feature engineering, Boruta selection, error and fairness analysis.
+3. [Part 3 – Serving](https://github.com/roeiraz12/Data-minning-project---3rd-year-part_3): a Flask web app that predicts a movie's rating from its details.
+
+**Other**
+- [Swwigy-project](https://github.com/roeiraz12/Swwigy-project): exploratory analysis of a 388-person food-delivery survey (pandas, seaborn).
+- [astronomical-calc](https://github.com/roeiraz12/astronomical-calc): React app for the Rambam's new-moon calculations (work in progress).
 - [Advanced-ML-Project-](https://github.com/roeiraz12/Advanced-ML-Project-): advanced machine-learning course project.
-- [Data-minning-project---3rd-year](https://github.com/roeiraz12/Data-minning-project---3rd-year)
-  (with [part_2](https://github.com/roeiraz12/Data-minning-project---3rd-year-part_2) and
-  [part_3](https://github.com/roeiraz12/Data-minning-project---3rd-year-part_3)): scraping movie data and predicting
-  IMDB ratings with Elastic Net and Random Forest.
-- [Wedding_Project](https://github.com/roeiraz12/Wedding_Project): wedding management workbook in Excel / VBA.
-- [astronomical-calc](https://github.com/roeiraz12/astronomical-calc): astronomical calculations.
-- [Swwigy-project](https://github.com/roeiraz12/Swwigy-project): data analysis of Swiggy food-delivery data.
 
 ## 🛠 Tools I use
 
