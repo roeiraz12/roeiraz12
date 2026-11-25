@@ -93,7 +93,6 @@ The public repo runs on synthetic demo data (password: `demo`).
 
 **Other**
 - [Swwigy-project](https://github.com/roeiraz12/Swwigy-project): exploratory analysis of a 388-person food-delivery survey (pandas, seaborn).
-- [astronomical-calc](https://github.com/roeiraz12/astronomical-calc): React app for the Rambam's new-moon calculations (work in progress).
 - [Advanced-ML-Project-](https://github.com/roeiraz12/Advanced-ML-Project-): advanced machine-learning course project.
 
 ## 🛠 Tools I use
